@@ -1,0 +1,48 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Burst and debug output
+*BurstDebugInformation_DoNotShip*/
+*_BurstDebugInformation_DoNotShip*
+
+# IDE files
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity temporary files
+.utmp/
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Builds. Upload the APK to the GitHub Releases page instead.
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# OS files
+.DS_Store
+Thumbs.db
