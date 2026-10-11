@@ -1,6 +1,6 @@
-# [Game Title]
+# Sisyphus Simulator
 
-[One-sentence description of the game, for example: "A VR [genre] game where you [core action] in [setting]."]
+A VR challenge game where you roll a massive stone up a mountain in [setting]."]
 
 ![Gameplay screenshot or GIF](docs/screenshot.png)
 
@@ -18,17 +18,16 @@
 
 ## Built With
 
-- Engine: [Unity / Unreal / Godot / other], version [x.x]
-- Language: [C# / Python / JavaScript / other]
-- VR platform: [Meta Quest / SteamVR / other], with [XR Interaction Toolkit / OpenXR / other]
-- Assets and tools: [Blender, Audacity, free asset packs, and so on]
+- Engine: Unity 6.1
+- Language: C#
+- VR platform: Meta Quest, with XR Interaction Toolkit
+- Assets and tools: AllSky Free - rpgwhitelock, Rock Textures - Texture Haven, Terrain Asset Pack - Unity Technologies
 
 ## How to Play
 
 ### Requirements
 
-- [Headset model, for example: Meta Quest 2]
-- [PC specs or Android version, if relevant]
+- Meta Quest 2
 
 ### Install and Run
 
